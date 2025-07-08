@@ -60,7 +60,7 @@ This dashboard helps:
 
 ![image](https://github.com/user-attachments/assets/a27f0e16-776e-4d1a-8c7a-01bb6e146688)
 
-> Link: (https://github.com/ButterC00kies/SwiggyGrocery-Analytics/blob/main/Swiggy%20Instamart%20Delivery.pdf)
+
 
 ---
 
